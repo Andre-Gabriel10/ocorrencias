@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Área de Ocorrências</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="traocorrencias.css"/>
+</head>
+<body>
+  <div class="card">
+    <div class="card-header">
+      <div class="logo-ring">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGldcABpxTfD-29Xy0p-7QxHzeLw1DlQ8aJA&s" alt="Logo"/>
+      </div>
+      <span class="header-title">Área de ocorrências</span>
+    </div>
+    <div class="card-body">
+      <button class="btn btn-positiva">Ocorrência positiva</button>
+      <button class="btn btn-negativa">Ocorrência negativa</button>
+      <button class="btn btn-historico">Histórico de ocorrências</button>
+      <button class="btn btn-voltar">Voltar</button>
+    </div>
+  </div>
+</body>
+</html>
